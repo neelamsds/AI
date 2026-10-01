@@ -1,0 +1,6 @@
+{
+  "name": "Atharvaveda Scholar & Dispatcher",
+  "description": "Automated Atharvaveda sequential mantra scheduler, 15-step multilingual scholar translator, chant audio streamer, and Telegram, Email, and WhatsApp publisher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

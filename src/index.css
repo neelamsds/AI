@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-telugu {
+    font-family: 'Noto Sans Telugu', system-ui, sans-serif;
+  }
+}
+
+body {
+  background-color: #FAF7F0;
+  color: #1C1917;
+  font-family: 'Lora', Georgia, serif;
+}
+
+::selection {
+  background-color: #FDE68A;
+  color: #78350F;
+}
+
